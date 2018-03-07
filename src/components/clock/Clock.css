@@ -1,0 +1,8 @@
+.clock {
+    cursor: pointer;
+    color: cadetblue;
+}
+
+.clock.brown {
+    color: brown;
+}
